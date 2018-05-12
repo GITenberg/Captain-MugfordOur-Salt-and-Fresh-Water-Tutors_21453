@@ -1,0 +1,46 @@
+_repo: Captain-MugfordOur-Salt-and-Fresh-Water-Tutors_21453
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Holloway, W. Herbert
+    alias: Holloway, W. H.
+    gutenberg_agent_id: '9710'
+    url: http://www.gutenberg.org/2009/agents/9710
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W. H. G.
+    - Kingston, W.H.G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: Three brothers spend a summer in Cornwall, where they are tutored by
+  Mr Clare, and learn about boating from Captian Mugford. Both men entertain the boys
+  with exciting stories of castaways and smugglers.
+gutenberg_issued: '2007-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Blacks -- West Indies -- Juvenile fiction'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+title: 'Captain Mugford: Our Salt and Fresh Water Tutors'
+url: http://www.gutenberg.org/ebooks/21453
